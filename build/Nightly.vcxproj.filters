@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\FATEC\InteligênciaArtificial\ProjetoFinal\build\CMakeFiles\bbd8f780270edb34bd254875cff2c3fa\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\FATEC\InteligênciaArtificial\ProjetoFinal\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\FATEC\InteligênciaArtificial\ProjetoFinal\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A3A683B0-F085-3FB0-A1BB-61D6EF7D551E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

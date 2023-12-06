@@ -1,0 +1,10 @@
+^E:\FATEC\INTELIGÊNCIAARTIFICIAL\PROJETOFINAL\BUILD\CMAKEFILES\BBD8F780270EDB34BD254875CFF2C3FA\GENERATE.STAMP.RULE
+setlocal
+D:\CMAKE\bin\cmake.exe -SE:/FATEC/InteligênciaArtificial/ProjetoFinal -BE:/FATEC/InteligênciaArtificial/ProjetoFinal/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/FATEC/InteligênciaArtificial/ProjetoFinal/build/ProjetoFinal.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
